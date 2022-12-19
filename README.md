@@ -16,7 +16,17 @@ Escreva um pequeno texto falando sobre os cenários escolhidos e as dificuldades
 
 ### Resolução
 
-Sistema web que será testado: [https://github.com/giovannifilho05/upfi](https://github.com/giovannifilho05/upfi)
-unittests Selenium: (1a) Upload de imagem; (1b) Form validation; (2a) Carregar imagens; (2b) Modal link up.
-Dificuldades: ????
+#### Sistema web que será testado
+[https://github.com/giovannifilho05/upfi](https://github.com/giovannifilho05/upfi)
+
+#### unittests Selenium
+
+- (1a) Upload de imagem;
+- (1b) Form validation;
+- (2a) Carregar imagens;
+- (2b) Modal link up.
+
+#### Dificuldades
+
+????
 
